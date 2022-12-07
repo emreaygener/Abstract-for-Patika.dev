@@ -1,0 +1,16 @@
+C:\Users\emrea\Desktop\Pratikler\Abstract\bin\Debug\net5.0\Abstract.exe
+C:\Users\emrea\Desktop\Pratikler\Abstract\bin\Debug\net5.0\Abstract.deps.json
+C:\Users\emrea\Desktop\Pratikler\Abstract\bin\Debug\net5.0\Abstract.runtimeconfig.json
+C:\Users\emrea\Desktop\Pratikler\Abstract\bin\Debug\net5.0\Abstract.runtimeconfig.dev.json
+C:\Users\emrea\Desktop\Pratikler\Abstract\bin\Debug\net5.0\Abstract.dll
+C:\Users\emrea\Desktop\Pratikler\Abstract\bin\Debug\net5.0\ref\Abstract.dll
+C:\Users\emrea\Desktop\Pratikler\Abstract\bin\Debug\net5.0\Abstract.pdb
+C:\Users\emrea\Desktop\Pratikler\Abstract\obj\Debug\net5.0\Abstract.csproj.AssemblyReference.cache
+C:\Users\emrea\Desktop\Pratikler\Abstract\obj\Debug\net5.0\Abstract.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emrea\Desktop\Pratikler\Abstract\obj\Debug\net5.0\Abstract.AssemblyInfoInputs.cache
+C:\Users\emrea\Desktop\Pratikler\Abstract\obj\Debug\net5.0\Abstract.AssemblyInfo.cs
+C:\Users\emrea\Desktop\Pratikler\Abstract\obj\Debug\net5.0\Abstract.csproj.CoreCompileInputs.cache
+C:\Users\emrea\Desktop\Pratikler\Abstract\obj\Debug\net5.0\Abstract.dll
+C:\Users\emrea\Desktop\Pratikler\Abstract\obj\Debug\net5.0\ref\Abstract.dll
+C:\Users\emrea\Desktop\Pratikler\Abstract\obj\Debug\net5.0\Abstract.pdb
+C:\Users\emrea\Desktop\Pratikler\Abstract\obj\Debug\net5.0\Abstract.genruntimeconfig.cache
